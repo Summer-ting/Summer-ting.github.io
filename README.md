@@ -5,7 +5,7 @@
 
 ### 个人主页
 
->这是我的个人主页
+>这是我们组的个人主页
 
 >衍生自 [Vno](https://github.com/onevcat/vno-jekyll) Jekyll 主题
 
@@ -22,9 +22,3 @@
 >动态图
 
 ![主页GIF](https://unpkg.com/dmego-home-page@latest/assets/img/home.gif)
-
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
-
